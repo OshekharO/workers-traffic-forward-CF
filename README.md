@@ -1,1 +1,3 @@
-# workers-traffic-forward-CF
+# W-T-F
+
+It can be used to forward monthly thrown by the wall, NAT chicken non-standard port traffic, etc...
